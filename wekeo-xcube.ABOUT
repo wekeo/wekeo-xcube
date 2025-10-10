@@ -1,0 +1,30 @@
+# Component information
+name: wekeo-xcube
+description: Compendium of training content associated with visualizing Copernicus data using the xcube Viewer.
+copyright: 2025 European Union
+license_spdx: MIT
+date: 10-10-2025
+home_url: https://gitlab.eumetsat.int/eumetlab/wekeo-tools/wekeo-xcube
+
+# Package IPR documentation
+license_text_file: LICENSE.txt
+
+# File(s) associated to this component
+
+about_resource: ./01_xcubeViewer_JH_create_and_visualize_data_cube.ipynb
+about_resource: ./02_xcubeViewer_JH_visualize_remote_datacubes.ipynb
+about_resource: ./AUTHORS.txt
+about_resource: ./LICENSE.txt
+about_resource: ./README.md
+about_resource: ./environment.yml
+about_resource: ./img/01_xcubeviewer_show.png
+about_resource: ./img/02_xcubeviewer_show.png
+about_resource: ./img/thumbs/02_CliMetLab_xcube.png
+about_resource: ./img/thumbs/02_thumb.png
+
+# Notes:
+
+The images contained in the ./img/thumbs folder are generated using the 
+matplotlib tool. The matplotlib tool does not extend its license/copyright to 
+figures produced by the package. The figures are covered by the package IPR
+documentation as specified in the license text file.
