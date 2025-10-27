@@ -1,5 +1,7 @@
 # Copyright holder
-EUMETSAT under the frameworks of the Copernicus Programme
+copyright: 2025 European Union
+license: LICENSE.txt
+
 
 # List of development authors
 Anna-Lena Erdmann (EUMETSAT)
