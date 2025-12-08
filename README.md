@@ -40,11 +40,11 @@ environment to include the dependencies listed.
 
 | Package   | Version | License      | Link                                                                 |
 |-----------|---------|--------------|----------------------------------------------------------------------|
-| python    | 3.10.18  | PSF-2.0      | [python.org](https://www.python.org/downloads/release/python-3100/)  |
+| python    | 3.12  | PSF-2.0      | [python.org](https://www.python.org/downloads/release/python-3120/)  |
 | hda       | 2.34    | Apache-2.0   | [anaconda.org/conda-forge/hda](https://anaconda.org/conda-forge/hda) |
 | matplotlib       | 3.10.6    | PSF-2.0   | [anaconda.org/conda-forge/matplotlib](https://anaconda.org/conda-forge/matplotlib) |
 | ipykernel | 6.30.1 | BSD-3-Clause | [anaconda.org/conda-forge/ipykernel](https://anaconda.org/conda-forge/ipykernel) |
 | earthkit-data | 0.16.7 | Apache-2.0 | [anaconda.org/conda-forge/earthkit-data](https://anaconda.org/conda-forge/earthkit-data) |
 | xarray | 2025.6.1 | Apache-2.0 | [anaconda.org/conda-forge/xarray](https://anaconda.org/conda-forge/xarray) |
-| xcube | 1.7.1 | MIT | [anaconda.org/conda-forge/xcube](https://anaconda.org/conda-forge/xcube) |
+| xcube | 1.12.0| MIT | [anaconda.org/conda-forge/xcube](https://anaconda.org/conda-forge/xcube) |
 | zarr | 2.18.3 | MIT | [anaconda.org/conda-forge/zarr](https://anaconda.org/conda-forge/zarr) |
