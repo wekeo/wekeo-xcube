@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - earthkit-data=0.16.7
+  - earthkit-utils<0.2  # as in earthkit-data 0.16.8: 0.16.x needs array_to_numpy, removed in earthkit-utils 0.2
   - hda=2.34
   - ipykernel=6.30.1
   - matplotlib=3.10.6
